@@ -1,5 +1,8 @@
 # OpenBook Data Analysis — Shelves, Authors & Trends
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hyxuOfKfjBD1uIJTB1BfLD81_ycCEPCr?usp=sharing)
+
+
 **Overview:** End-to-end analysis of the OpenBook corpus to quantify catalog size, normalize metadata, and surface reading-engagement signals (Want-to-Read, Currently-Reading, Have-Read) across authors, categories, and years.
 
 ## Workflow
